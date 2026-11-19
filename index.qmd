@@ -2,4 +2,6 @@
 title: "Baseball Through the Numbers"
 ---
 
-Explore the history of Major League Baseball through its data. Using the Lahman database, this project traces the players, teams, and seasons that have shaped the game.
+Welcome to a data-driven look at Major League Baseball history using the Lahman database. Comparing home runs per team-game puts seasons of different lengths in context, while the career leaderboard is topped by Barry Bonds, Hank Aaron, and Babe Ruth.
+
+Choose **Home runs** or **Sluggers** in the navbar to explore the season-by-season trends, career leaders, and Barry Bonds' yearly totals.
